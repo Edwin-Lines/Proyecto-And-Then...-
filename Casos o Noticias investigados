@@ -1,13 +1,3 @@
 -Aquí pueden pegar la información sobre los casos que hayan buscado.
 ▪︎Poner el nombre de empresa o persona que le sucedió.
 ▪︎Dar pequeño resumen de lo sucedido o el contexto donde ocurrió
-
-El sistema de control de la nave en la Tierra usaba el sistema métrico anglosajón mientras que el sistema de navegación de la nave esperaba valores en el sistema métrico decimal.
-
-Esto hizo que, tras cada encendido de motores y por los parámetros de movimiento incorrectos tras el uso de diferentes unidades de medida, la trayectoria de la nave se acercara demasiado a Marte y acabará desintegrada por la fuerza de fricción atmosférica del planeta.
-
-En este caso, el error tuvo su origen en el incumplimiento de los requisitos del sistema que especificaba que todo el software debía usar el sistema métrico decimal. Muy buen ejemplo de la importancia de cumplir (y testear) que la implementación del software cumple con su especificación.
-
-error ocurrió en la agencia de la NASA.
-
-Básicamente el error fue el sistema que utilizaban, el control utilizaba sistema métrico anglosajón y la nave decimal. Este detalle logró que la nave se desintegrara por la fuerza atmosférica.
