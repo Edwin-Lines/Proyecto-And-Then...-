@@ -1,29 +1,3 @@
 -Aquí pueden pegar la información sobre los casos que hayan buscado.
 ▪︎Poner el nombre de empresa o persona que le sucedió.
 ▪︎Dar pequeño resumen de lo sucedido o el contexto donde ocurrió
-
--Amazon (2017)
-    Resumen:
-    EL martes 28 de febrero de 2017 internet registró uno de esos grandes fallos que terminó afectando gran parte de las webs, 
-    servicios y aplicaciones que usamos diariamente. Esto se debió a una caída del servicio S3 (Simple Storage Service) de Amazon Web Services (AWS), 
-    uno de los más grandes de internet y donde compañías como Hootsuite, Twitch, Airbnb, Giphy, Trello, IFTTT, y otras más están alojadas.
-    Un miembro autorizado del equipo ejecutó un comando de acuerdo a lo establecido en el manual, desafortunadamente, 
-    una de las entradas del comando se ingresó de forma errónea y terminó deshabilitando un conjunto de servidores más grande de lo previsto.
-    Fuente: https://www.xataka.com/servicios/recuerdan-el-fallo-que-dejo-a-medio-internet-inaccesible-amazon-ya-sabe-que-fue-lo-que-paso-un-typo
-    
--AT&T (1990)
-    Resumen:
-    La empresa AT&T perdió unos $60 millones de dólares al dejar aproximadamente a 60.000 clientes sin comunicación en llamadas de larga distancia. 
-    El motivo de esta caída fue debido a los interruptores que se reseteaban cada pocos segundos debido a un fallo en una actualización del software. 
-    Este fallo provocaba una caida cascada entre los diferentes interruptores.
-    Fuente: https://www.genbeta.com/desarrollo/bugs-en-el-software-i-accidentes-epicos-por-fallos-en-el-software#:~:text=AT%26T%20(1990)%3A%20La%20empresa,en%20una%20actualizaci%C3%B3n%20del%20software.
-            https://elpais.com/diario/1990/01/17/sociedad/632530811_850215.html
-            http://www.angelfire.com/trek/ciberpol/ciberpol/spa/hack/historiashacker3.htm
-           
--American Airlines (2013)
-    Resumen:
-    En 2013, un error de programación provocó el caos en la compañía de aviación American Airlines. 
-    La unión de dos sistemas como resultado de la fusión de varias compañías aéreas originó un fallo en el sistema de reserva de pasajes. 
-    Concretamente, el problema surgió con toda probabilidad cuando se intentó unificar plataformas escritas en diferentes lenguajes de programación.
-    Fuente: https://actualidad.rt.com/actualidad/view/138158-catastrofes-programacion-culpa-software-computadora
-            https://www.elmundo.es/america/2013/04/16/estados_unidos/1366141051.html
