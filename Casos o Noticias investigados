@@ -3,6 +3,7 @@
 ▪︎Dar pequeño resumen de lo sucedido o el contexto donde ocurrió
 
 Problema de software Knight Capital
+
 Contexto:
 En 2013, un fracaso del programa casi llevó a la compañía de inversión Knight Capital a la bancarrota. La firma perdió medio billón de dólares en media hora porque las computadoras comenzaron a comprar y vender millones de acciones sin ningún control humano. Como resultado, los precios de las acciones de la compañía cayeron un 75% en dos días.
 Información:
@@ -15,6 +16,8 @@ El 1 de agosto del mismo año, Knight recibió órdenes de sus brokers para empe
 Como el sistema SMARS no era consciente de las órdenes ya ejecutadas por ese servidor con código antiguo, Knight ejecutó 4 millones de operaciones en 154 stocks por más de 397 millones de acciones en aproximadamente 45 minutos (la continua compra/venta devaluó las acciones), lo que conllevó unas pérdidas estimadas en 460 millones de dólares.
 Cuando los técnicos se dieron cuenta del error, ya era demasiado tarde. Pese a ello, Knight Capital consiguió levantar una inversión de 400 millones de dólares (entre ellos del Grupo Jefferies) para poder hacer frente al batacazo monetario.
 Un error garrafal, debido a malos procedimientos de revisión y despliegue de actualizaciones en los sistemas informáticos.
+
+
 Interrupción de Amazon.
 Contexto:
 La interrupción del servidor de Amazon en el verano de 2013 privó a muchas personas de sus datos almacenados en la nube. El accidente, inicialmente causado por un fallo al quitar mas servidores de los ordenados, lo que causo el colapso.
