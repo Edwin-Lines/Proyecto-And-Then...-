@@ -1,2 +1,3 @@
+# **Cronograma** 
 Estaremos manejando el siguiente enlace para el distribución de las tareas y manejar los tiempos, en caso de entrar como observador y no como miembro, favor de mandar un mensaje con una dirección de correo que puedan usar:
-https://proyecto-de-fis.monday.com/boards/844894433/
+[Cronograma en Monday](https://proyecto-de-fis.monday.com/boards/844894433/ "Cronograma en Monday")
