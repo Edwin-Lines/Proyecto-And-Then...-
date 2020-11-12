@@ -11,6 +11,6 @@ And Then... es un prototipo de juego de mesa utilizando el principio de un apren
 ## Indice
 1.[Objetivos](https://github.com/In-process "Objetivos")
 
-2.[Cronograma](https://github.com/Edwin-Lines/Proyecto-de-Fundamentos-en-Ingenieria-de-Software/blob/main/Cronograma "Cronograma")
+2.[Cronograma](https://github.com/Edwin-Lines/Proyecto-de-Fundamentos-en-Ingenieria-de-Software/blob/main/Cronograma.md "Cronograma")
 
 3.[Requerimientos](https://github.com/In-process "Requerimientos")
