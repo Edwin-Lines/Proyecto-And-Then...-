@@ -3,3 +3,5 @@
 
 Pendiente:
 * Añadir ideas en el apartade de ***ideas-para-el-proyecto*** dentro del servidor de Discord.
+
+[Siguiente entrada de bitácora](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
