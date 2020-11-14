@@ -4,3 +4,5 @@ Reunión en el **Canal de Juntas** en Discord:
 
 Pendiente:
 * Desarrollar de manera más clara la idea del proyecto, empezando con el nombre y algunas reglas.
+
+[Siguiente entrada de bitácora](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
