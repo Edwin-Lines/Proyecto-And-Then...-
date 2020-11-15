@@ -41,3 +41,17 @@
 
 * El 1 de agosto del mismo año, Knight recibió órdenes de sus brokers para empezar a participar en el RLP. Los siete servidores con el código nuevo procesaban las órdenes correctamente, pero había uno que aún mantenía el código antiguo. Como resultado, el servidor no actualizado comenzaba a enviar sin parar órdenes hijo por cada orden padre recibida a ciertos centros de trading para su ejecución sin tener en cuenta el número de ejecuciones ya realizadas; Knight ejecutó 4 millones de operaciones en 154 stocks por más de 397 millones de acciones en aproximadamente 45 minutos (la continua compra/venta devaluó las acciones), lo que conllevó unas pérdidas estimadas en 460 millones de dólares.
 
+## Caso 8 - Explosión de ariane en 1996
+* El 4 de junio de 1996, el cohete Ariane 5 lanzado por la Agencia Espacial Europea estalló 38 segundos después de su despegue desde Kourou tras una década de desarrollo, y las pérdidas se estimaron en 500 millones de dólares; la causa de la explosión fue un error en el software, un error no detectado por falta de control de la calidad del software crítico del cohete.
+* Todo sucedió porque un número real de 64 bits (coma flotante) relacionado con la velocidad horizontal del cohete se convirtió en un entero de 16 bits.
+
+## Caso 9 - La catástrofe del Hartford Coliseum
+* Sólo unas horas después de que miles de aficionados al hockey abandonaran el Hartford Coliseum, la estructura de acero de su techo se desplomaba debido al peso de la nieve.
+
+* El desarrollador del software de diseño asistido (CAD) utilizado para diseñar el coliseo asumió incorrectamente que los soportes de acero del techo sólo debían aguantar la compresión de la propia estructura; sin embargo, cuando uno de estos soportes se dobló debido al peso de la nieve, inició una reacción en cadena que hizo caer a las demás secciones del techo como si se tratara de piezas de dominó.
+
+## Caso 10 - Therac-25, un caso dramático
+* Therac-25 era una máquina de radioterapia, producida por la empresa estatal canadiense de energía nuclear, que fue la causante directa de la muerte de, al menos, 
+    tres pacientes entre 1985 y 1987 a los que se suministró sobredosis masivas de radicación.
+* La comisión investigadora concluyó que la razón de estos accidentes podía atribuirse a malas prácticas en desarrollo, mal análisis en los requerimientos y un mal diseño del software, al ser que el código fuente no habia sido revisado de forma independiente.
+
