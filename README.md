@@ -14,11 +14,11 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 ## Indice
 1.[Objetivos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/1.%20Objetivos.md "Objetivos")
 
-2.[Cronograma](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Cronograma.md "Cronograma")
+2.[Cronograma](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/2.%20Cronograma.md "Cronograma")
 
 3.[Requerimientos](https://github.com/In-process "Requerimientos")
 
-4.[Métodos y herramientas](https://github.com/In-process "Métodos y herramientas")
+4.[Métodos y herramientas](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/4.M%C3%A9todos%20y%20herramientas.md "Métodos y herramientas")
 
 5.[Roles y procesos en el equipo](https://github.com/In-process "Roles y procesos en el equipo")
 
