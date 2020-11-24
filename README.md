@@ -7,10 +7,10 @@
 * **Alejandro Roberto Cortázar Alvarez** - [@Alekey11](https://github.com/Alekey11 "@Alekey11")
 
 ## Descripción
-And Then... es un prototipo de juego de mesa utilizando el principio de un aprendizaje más didáctico, en este caso, el de poder practicar situaciones de la vida real mediante un juego; este juego de mesa trata de manejar diversas situaciones con recursos propuestos en un ámbito de sistemas de software, siendo que se basen en situaciones reales vivido por empresas o ingenieros en sí. Este proyecto permite la práctida de la toma de desiciones y la forma de actuar frente una situación de estrés que tendremos que manejar en un futuro como profesionistas en un juego interactivo.
+And Then... es un prototipo de juego de mesa utilizando el principio de un aprendizaje más didáctico, en este caso, el de poder practicar situaciones de la vida real mediante un juego; este juego de mesa trata de manejar diversas situaciones con recursos propuestos en un ámbito de sistemas de software, siendo que se basen en situaciones reales vivido por empresas o ingenieros en sí. Este proyecto permite la práctica de la toma de decisiones y la forma de actuar frente una situación de estrés que tendremos que manejar en un futuro como profesionistas en un juego interactivo.
 
 ## Usuarios
-Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiantes con interés en la rama de software y profesionistas en el campo de software que quisieran reforzar e incluse entretenerse mientras desarrollan habilidades para la toma de decisiones y la manera de actuar dentro de su profesión.
+Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiantes con interés en la rama de software y profesionistas en el campo de software que quisieran reforzar e inclusive entretenerse mientras desarrollan habilidades para la toma de decisiones y la manera de actuar dentro de su profesión.
 
 ## Indice
 1.[Objetivos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/1.%20Objetivos.md "Objetivos")
