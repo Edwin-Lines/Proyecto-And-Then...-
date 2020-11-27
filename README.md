@@ -26,3 +26,5 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 6.[Roles y procesos en el equipo](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/6.%20Roles%20y%20procesos%20en%20el%20equipo.md "Roles y procesos en el equipo")
 
 ♦[Bitácoras](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
+[Competencias desarrolladas] (https://github.com/leandrodzn/Proyecto-And-Then...-/blob/Dev/Documentaci%C3%B3n/Competencias/Competencias%20reflejadas%20en%20el%20proyecto.md)
+
