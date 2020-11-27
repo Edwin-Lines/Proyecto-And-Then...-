@@ -27,7 +27,7 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 
 ♦[Bitácoras](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
 
-♦[Competencias de la asignatura](https://github.com/leandrodzn/Proyecto-And-Then...-/blob/Dev/Documentaci%C3%B3n/Competencias/Competencias%20reflejadas%20en%20el%20proyecto.md "Competencias de la asignatura")
+♦[Competencias de la asignatura](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Competencias/Competencias%20reflejadas%20en%20el%20proyecto.md "Competencias de la asignatura")
 
 
 
