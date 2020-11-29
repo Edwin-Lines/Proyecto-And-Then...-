@@ -29,5 +29,6 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 
 ♦[Competencias de la asignatura](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Competencias/Competencias%20reflejadas%20en%20el%20proyecto.md "Competencias de la asignatura")
 
+♦[Presentación de la primera entrega](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Proyecto_And_Then_PrimeraEntrega.pptx "Presentación de la primera entrega")
 
 
