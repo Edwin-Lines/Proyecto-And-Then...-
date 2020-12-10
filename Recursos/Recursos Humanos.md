@@ -11,13 +11,14 @@ estilos de mando del jefe (responsable de la cohesión y dirección del equipo) 
 sus respectivas consecuencias sobre los resultados de la actividad conjunta y las
 relaciones de sus componentes.
 
-Mando: Autoritario.
-Comportamiento grupo: Agresivo/rebelde o apático/sumiso, según caracteres de sus
+**Mando: Autoritario**
+
+- Comportamiento grupo: Agresivo/rebelde o apático/sumiso, según caracteres de sus
 componentes
-Resultados: Mejora de rendimiento a corto plazo. Formación de objetivos propios de los
+- Resultados: Mejora de rendimiento a corto plazo. Formación de objetivos propios de los
 individuos. Descenso de rapidez y calidad. Malestar psíquico.
 
-Mando: Democrático.
+**Mando: Democrático**
 Comportamiento grupo: Personal y más amistoso. Se valoran cualidades individuales y
 aceptan intereses comunes.
 Resultados: Se mantiene nivel de actividad aún sin jefe presente. Decisiones más
