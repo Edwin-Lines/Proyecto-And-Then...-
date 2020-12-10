@@ -1,6 +1,7 @@
 # Recursos Humanos
 - Aquí pueden pegar la información sobre el recurso investigado.
 - Incluir ejemplos, posiciones o elementos existentes que pueden ser usados dentro de nuestro proyecto.
+## Equipos humanos
 
 Las técnicas de gestión de equipos humanos han adquirido extremada importancia,
 debido a la forma actual de trabajar.
@@ -58,4 +59,19 @@ problemas complejos, con dosis de innovación y creatividad, pero también
 considerables dosis de rutina y administración. Un proyecto real tiene varias fases, en
 las que se involucran distintos equipos con características diferenciadas.
 
-_Fuente consultada: http://dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf_
+## Cantidad de empleados en empresas de software
+
+En julio de 2005 se aplicó una encuesta a 68 gerentes de empresas del sector de la Industria del Software de México para conocer el perfil general de éstas y analizar los factores críticos de éxito del sector. Dicha encuesta forma parte de un trabajo de investigación sobre el estudio de estrategias para generar ventajas competitivas en la industria del software, realizado en la Universidad Politécnica de Valencia, España, en el programa doctoral “Integración de las Tecnologías de la Información en las Organizaciones”.
+
+**Tamaño de las Empresas**
+
+El estudio revela que el 85.29% de las empresas del sector de la Industria Mexicana del Software son de tamaño micro (54.41%) y pequeño (30.88%), el 5.8% mediana, y tan sólo el 8.82% son de tamaño grande (con un número de empleados mayor a 100).
+
+![Imagen](http://www.sg.com.mx/images/stories/200603/productos_3.gif "Tabla tamaño de empresas software México")
+
+**Número Promedio de Empleados por Tamaño de Empresa**
+Al analizar el número promedio de empleados por tamaño de empresa, las microempresas presentan un promedio de 6 empleados, las pequeñas 23 y las medianas 76. Para el caso de las empresas grandes, se reflejó un sesgo introducido por la presencia en el estudio de una empresa de tamaño grande e intensiva en el número de personal (3,200 empleados), por lo que se estimó un valor medio corregido de empleados cuyo valor fue de 229 empleados.
+
+_Fuentes consultadas: 
+- http://dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf
+- https://sg.com.mx/revista/9/industria-mexicana-cifras _
