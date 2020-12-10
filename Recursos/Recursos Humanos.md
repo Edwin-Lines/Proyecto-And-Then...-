@@ -70,8 +70,9 @@ El estudio revela que el 85.29% de las empresas del sector de la Industria Mexic
 ![Imagen](http://www.sg.com.mx/images/stories/200603/productos_3.gif "Tabla tamaño de empresas software México")
 
 **Número Promedio de Empleados por Tamaño de Empresa**
+
 Al analizar el número promedio de empleados por tamaño de empresa, las microempresas presentan un promedio de 6 empleados, las pequeñas 23 y las medianas 76. Para el caso de las empresas grandes, se reflejó un sesgo introducido por la presencia en el estudio de una empresa de tamaño grande e intensiva en el número de personal (3,200 empleados), por lo que se estimó un valor medio corregido de empleados cuyo valor fue de 229 empleados.
 
-_Fuentes consultadas: 
+_Fuentes consultadas:_ 
 - http://dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf
-- https://sg.com.mx/revista/9/industria-mexicana-cifras _
+- https://sg.com.mx/revista/9/industria-mexicana-cifras
