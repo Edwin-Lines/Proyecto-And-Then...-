@@ -19,15 +19,18 @@ componentes
 individuos. Descenso de rapidez y calidad. Malestar psíquico.
 
 **Mando: Democrático**
-Comportamiento grupo: Personal y más amistoso. Se valoran cualidades individuales y
+- Comportamiento grupo: Personal y más amistoso. Se valoran cualidades individuales y
 aceptan intereses comunes.
-Resultados: Se mantiene nivel de actividad aún sin jefe presente. Decisiones más
+- Resultados: Se mantiene nivel de actividad aún sin jefe presente. Decisiones más
 vinculantes. Se favorece el desarrollo personal.
 
-Mando: Pasota (laissez faire)
-Comportamiento grupo: Mejora creatividad. Desarrollo individualismo. Falta de
+**Mando: Pasota (laissez faire)**
+- Comportamiento grupo: 
+  - Mejora creatividad. 
+  - Desarrollo individualismo. 
+  - Falta de
 responsabilidad.
-Resultados: Favorece creatividad e imaginación. Desaparece conciencia de grupo.
+- Resultados: Favorece creatividad e imaginación. Desaparece conciencia de grupo.
 Relega trabajo duro. Surge líder. 
 
 Cada arquetipo tiene (o requiere) una estructura de componentes
