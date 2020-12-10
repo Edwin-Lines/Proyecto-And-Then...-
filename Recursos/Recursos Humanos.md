@@ -63,13 +63,13 @@ las que se involucran distintos equipos con características diferenciadas.
 
 En julio de 2005 se aplicó una encuesta a 68 gerentes de empresas del sector de la Industria del Software de México para conocer el perfil general de éstas y analizar los factores críticos de éxito del sector. Dicha encuesta forma parte de un trabajo de investigación sobre el estudio de estrategias para generar ventajas competitivas en la industria del software, realizado en la Universidad Politécnica de Valencia, España, en el programa doctoral “Integración de las Tecnologías de la Información en las Organizaciones”.
 
-**Tamaño de las Empresas**
+**Tamaño de las empresas**
 
 El estudio revela que el 85.29% de las empresas del sector de la Industria Mexicana del Software son de tamaño micro (54.41%) y pequeño (30.88%), el 5.8% mediana, y tan sólo el 8.82% son de tamaño grande (con un número de empleados mayor a 100).
 
 ![Imagen](http://www.sg.com.mx/images/stories/200603/productos_3.gif "Tabla tamaño de empresas software México")
 
-**Número Promedio de Empleados por Tamaño de Empresa**
+**Número promedio de empleados por tamaño de empresa**
 
 Al analizar el número promedio de empleados por tamaño de empresa, las microempresas presentan un promedio de 6 empleados, las pequeñas 23 y las medianas 76. Para el caso de las empresas grandes, se reflejó un sesgo introducido por la presencia en el estudio de una empresa de tamaño grande e intensiva en el número de personal (3,200 empleados), por lo que se estimó un valor medio corregido de empleados cuyo valor fue de 229 empleados.
 
