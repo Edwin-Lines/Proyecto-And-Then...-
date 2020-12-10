@@ -57,3 +57,5 @@ proyecto de software es distinto, pero por lo general implica capacidades de sol
 problemas complejos, con dosis de innovación y creatividad, pero también
 considerables dosis de rutina y administración. Un proyecto real tiene varias fases, en
 las que se involucran distintos equipos con características diferenciadas.
+
+_Fuente consultada: http://dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf_
