@@ -25,7 +25,7 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 
 6.[Prototipos del proyecto y recursos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/6.%20Prototipos%20del%20proyecto%20y%20recursos.md "Recursos")
 
-7.[Protipos de las cartas](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentación/7. Prototipos de las cartas "Prototipos de las cartas")
+7.[Protipos de las cartas](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/7.%20Prototipos%20de%20las%20cartas "Prototipos de las cartas")
 
 ♦[Bitácoras](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
 
