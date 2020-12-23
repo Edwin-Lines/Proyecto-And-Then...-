@@ -21,4 +21,4 @@
 
 **10.** Cuentas con un developer team de 180 a 200 individuos. Estado productivo: Alto
 
-♦[Regresar a Prototipos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/7.%20Prototipos%20de%20las%20cartas "Prototipos")♦[Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
+♦[Regresar a Prototipos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/7.%20Prototipos%20de%20las%20cartas "Prototipos") ♦ [Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
