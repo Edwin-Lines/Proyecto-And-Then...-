@@ -102,3 +102,4 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 
 ***
 ♦[Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
+♦[Cronograma en Microsoft Planner](https://tasks.office.com/alumnos.uady.mx/es/Home/Planner/#/plantaskboard?groupId=770ad327-1ceb-44b7-8aca-221b2e1fa85c&planId=PQPZC5TIrESN4PLdSEPhJmQAG_j8 "Microsoft Planner")
