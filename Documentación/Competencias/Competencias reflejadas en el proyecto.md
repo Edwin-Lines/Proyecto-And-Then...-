@@ -99,6 +99,6 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 
 ***Segunda entrega***
 -	*Investigar sobre los recursos humanos*
-***
+
 ***
 ♦[Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
