@@ -6,7 +6,7 @@
 
 **Aprendizaje y justificación:** Nos comunicamos todos los días en clases de la asignatura y en reuniones de duda o retroalimentación y en reuniones de equipo.
 
-**Actividades:** Todas las actividades
+**Actividades:** *Todas las actividades*
 ***
 **Tipo de competencia:** Genérica
 
@@ -14,7 +14,7 @@
 
 **Aprendizaje y justificación:** Todas las actividades y las tareas encomendadas relacionadas a la realización del proyecto las realizamos de manera digital, la misma planeación de las actividades está hecha por medio de una plataforma para gestionar la información.
 
-Actividades: Todas las actividades
+**Actividades:** *Todas las actividades*
 ***
 **Tipo de competencia:** Genérica
 
@@ -22,7 +22,7 @@ Actividades: Todas las actividades
 
 **Aprendizaje y justificación:** Al tener las reuniones de equipo se procura hablar de manera pertinente y de acuerdo a los asuntos a tratar.
 
-**Actividades:** Reuniones
+**Actividades:** *Reuniones*
 ***
 **Tipo de competencia:** Genérica
 
@@ -30,7 +30,7 @@ Actividades: Todas las actividades
 
 **Aprendizaje y justificación:** En las reuniones se toman decisiones sobre las actividades a realizar y distintas propuestas hechas por cada integrante del equipo.
 
-**Actividades:** Reuniones
+**Actividades:** *Reuniones*
 ***
 
 **Tipo de competencia:** Disciplinar
