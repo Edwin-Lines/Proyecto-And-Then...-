@@ -36,7 +36,7 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 
 ♦[Presentación de la primera entrega](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Proyecto_And_Then_PrimeraEntrega.pptx "Presentación de la primera entrega")
 
-♦[Presentación de la segunda entrega](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Proyecto_And_Then_PrimeraEntrega.pptx "Presentación de la primera entrega")
+♦[Presentación de la segunda entrega](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Proyecto_And_Then_SegundaEntrega.pptx "Presentación de la segunda entrega")
 
 
 
