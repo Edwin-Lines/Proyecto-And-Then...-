@@ -6,6 +6,8 @@
 
 ## Información de elementos con relación al proyecto (Tamaño, tiempo disponible, recursos disponibles, relación ventajas-riesgo, ec.)
 
+Factores del costo del software
+***
 - Tamaño del software
 
 Cuantas más pantallas/páginas tenga, más trabajo deberá realizar para crear su aplicación y más costoso será al momento de la entrega. Las aplicaciones pequeñas van desde 10 a 25 pantallas, el tamaño medio está en el orden de 25-40 y un tamaño grande es algo más que 40.
