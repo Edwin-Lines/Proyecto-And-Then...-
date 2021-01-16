@@ -6,7 +6,7 @@
 
 ## Información de elementos con relación al proyecto (Tamaño, tiempo disponible, recursos disponibles, relación ventajas-riesgo, ec.)
 
-###Factores del costo del software
+### Factores del costo del software
 
 - Tamaño del software
 
