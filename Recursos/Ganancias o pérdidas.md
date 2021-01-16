@@ -36,5 +36,48 @@ La mayoría de los esfuerzos de migración se ejecutan varias veces después de 
 
 Por lo tanto, cuando está analizando los costos del desarrollo de software y creando un presupuesto para su desarrollo de software personalizado, debe considerar estos factores.
 
+### Estimación de costos
+
+Los costos suelen ser cuantificables y estimables en unidades económicas. En un análisis costo/beneficio se debe considerar aquellos aspectos tangibles, cuantificables en valores como dinero, tiempo, recursos, y los intangibles, no ponderables, ni palpables pero si indispensables para analizar los costos de un proyecto. Aunque los beneficios intangibles sean difíciles de cuantificar no hay razón para no tenerlos en cuenta, donde deben estar involucrados todos los interesados en el software (Sexton, 2009).
+
+**Análisis Costo-Beneficio:** 
+
+La técnica del análisis costo/beneficio tiene como objetivo fundamental proporcionar una medida de los costos en que se incurre en la realización de un proyecto y comparar dicha previsión de costos con los beneficios esperados de la realización de dicho proyecto.
+A la hora de realizar el cálculo de los costos se deben considerar, entre otros, elementos como los siguientes: (MAP, 2001)
+
+- Adquisición y mantenimiento de hardware y software.
+- Gastos de comunicaciones (líneas, teléfono, correo, etc.).
+- Gastos de instalación (cableado, acondicionamiento de sala, recursos humanos y materiales, gastos de viaje, etc.).
+- Costo de desarrollo del sistema.
+-  Gastos (costo anual) del mantenimiento del sistema
+- Gastos de consultoría: En caso de requerirse algún consultor externo en cualquier etapa del proyecto.
+- Gastos de formación: de todo tipo de personal (desarrolladores, operadores, implantadores, usuarios finales, etc.).
+- Gastos de material: Papel, toner, etc.
+- Costos derivados de la curva de aprendizaje del personal involucrado Costos financieros, de publicidad, etc.
+
+Y para la estimación de beneficios se deben considerar cuestiones como las siguientes:
+
+- Incremento de la productividad: Ahorro o mejor utilización de recursos humanos.
+- Ahorro de gastos de mantenimiento del sistema actual.
+- Ahorros de adquisición y mantenimiento de hardware y software, o reutilización de plataformas sustituidas.
+- Incremento de ventas o resultados, y disminución de costos producidos por una mejora de la gestión (rotación de stock, “just in time”, gestión de relaciones con clientes, etc.).
+- Ahorro de material de todo tipo: Sustituido por datos electrónicos que proporciona el sistema, como por ejemplo: papel, correo, etc.
+- Beneficios financieros.
+- Otros beneficios tangibles: Ahorro de recursos externos, consultoría, formación, etc.
+- Beneficios intangibles: Incremento de la calidad del producto o servicio, mejora de la imagen de la compañía, mejora en la atención al cliente, mejora en la explotación, etc.
+
+**Productividad:** 
+
+La productividad es otro de los indicadores más fuertemente relacionado con los aspectos económicos de la fabricación de software. Existen estándares con dedicación exclusiva a esta medida (IEEE, 1992) es también una de las más polémicas e imprecisas. (Oded & Mounford, 2008).
+Estos indicadores económicos en concordancia con las métricas son el camino a seguir para lograr la calidad esperada en el software, el capítulo 3 muestra un estudio de la importancia de registrar los costos reales y realizar el examen oportuno en las entidades que desarrollan software.
+
+**Costo-eficiencia:** 
+
+Este plantea que la conveniencia de la ejecución de un proyecto se determina por la observación conjunta de dos factores:
+
+- **El costo:** involucra la implementación de la solución informática, adquisición y puesta en marcha del sistema hardware / software y los costos de operación asociados.
+- **La eficiencia:** se entiende como la relación entre bienes y servicios finales (resultados) y los insumos requeridos para ello (esfuerzo). Así se trata de medir en qué grado el gasto de recursos se justifica por los resultados, minimizando costos u optimizando insumos.
+
 *Fuentes:*
 - https://invidgroup.com/es/cuanto-cuesta-el-software-personalizado/
+- https://www.gestiopolis.com/estimacion-de-costos-de-desarrollo-de-software/
