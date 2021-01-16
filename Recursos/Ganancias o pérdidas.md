@@ -34,5 +34,5 @@ La mayoría de los esfuerzos de migración se ejecutan varias veces después de 
 
 Por lo tanto, cuando está analizando los costos del desarrollo de software y creando un presupuesto para su desarrollo de software personalizado, debe considerar estos factores.
 
-*Fuentes: 
+*Fuentes:*
 - https://invidgroup.com/es/cuanto-cuesta-el-software-personalizado/
