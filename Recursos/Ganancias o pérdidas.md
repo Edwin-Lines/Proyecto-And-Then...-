@@ -33,3 +33,6 @@ Los pasos del proceso son bastante sencillos, pero hay muchas preguntas y decisi
 La mayoría de los esfuerzos de migración se ejecutan varias veces después de finalizar el software para garantizar que todo se traslade correctamente y que el nuevo sistema esté utilizando los datos como se desea. El esfuerzo de averiguar las reglas de traslado, escribir los guiones y realizar una serie de pruebas y ajustes agregará tiempo y costo al proyecto.
 
 Por lo tanto, cuando está analizando los costos del desarrollo de software y creando un presupuesto para su desarrollo de software personalizado, debe considerar estos factores.
+
+*Fuentes: 
+- https://invidgroup.com/es/cuanto-cuesta-el-software-personalizado/
