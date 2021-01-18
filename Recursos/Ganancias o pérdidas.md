@@ -1,28 +1,30 @@
 # Ganancias o pérdidas
 - Aquí pueden pegar la información sobre la investigación de los elementos que influyen en la ganancia o pérdida de un proyecto
 - Incluir ejemplos, posiciones o elementos existentes que pueden ser usados dentro del proyecto.
-# Ejemplo de empresa: MICROSOFT
 
-## Tamaño de la empresa 
+
+
+## Información de elementos con relación a la empresa (Tamaño, tiempo en el mercado, éxito en ventas, etc.)
+
+### Ejemplo de empresa: MICROSOFT
+
+#### Tamaño de la empresa 
 
 La empresa MICROSOFT tiene un tamaño de 286 550 millones USD.
 
-## Perdidas
+#### Perdidas
 En el trimestre de abril a junio, que cierra el año fiscal de Microsoft, la compañía de Seattle cerró con su primera pérdida neta desde que comenzó a cotizar en el mercado de valores en 1986, por valor de 492 millones de dólares.
 
 Gran parte de este resultado negativo se debe a que sustrajo una cantidad importante del gasto diferido por la compra en 2007 de la agencia de publicidad online aQuantive por valor de 6.300 millones de dólares.
 
-## Ganancias
+#### Ganancias
 Microsoft presentó su reporte de ganancias del tercer trimestre y para sorpresa y tranquilidad de directivos e inversores, la compañía de Redmond no tuvo mayores pérdidas, sino que obtuvo un 15 por ciento más en sus ingresos en comparación con el primer trimestre del 2019.
 
-## Éxito de la empresa
+#### Éxito de la empresa
 
 El primer verdadero éxito de Microsoft sería con la creación del sistema operativo MS-DOS, el cual fue incluido en los ordenadores personales de la multinacional IBM que empezaron a salir al mercado a partir de 1981. El gran alcance que había logrado el producto creció aún más en 1983, con la integración del “ratón”. Este mismo año se crea la división “Microsoft Press”.
 
 Saben priorizar. Creo que es el punto más complicado. Conocen donde quieren ir y se niegan a todo lo que no les lleve a su destino.
-
-
-## Información de elementos con relación a la empresa (Tamaño, tiempo en el mercado, éxito en ventas, etc.)
 
 ## Información de elementos con relación al proyecto (Tamaño, tiempo disponible, recursos disponibles, relación ventajas-riesgo, ec.)
 
