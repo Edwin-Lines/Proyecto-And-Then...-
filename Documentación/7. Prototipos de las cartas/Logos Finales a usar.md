@@ -14,8 +14,12 @@ Tras hacer el diseño del logo principal a usar dentro del proyecto, usando un d
 
 ![Recursos Materiales](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Recursos/Logos%20Finales%20a%20usar/Recursos%20Materiales.png)
 
-## Profit 
+## Puntos de Habilidad
 
-![Profit](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Recursos/Logos%20Finales%20a%20usar/Profit.png)
+![PuntosHabilidades](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Recursos/Logos%20Finales%20a%20usar/Puntos%20de%20Habilidad.png)
+
+## Habilidades en Proyectos
+
+![Habilidades](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Recursos/Logos%20Finales%20a%20usar/Habilidades%20en%20proyectos.png)
 
 ♦[Regresar a Prototipos](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/7.%20Prototipos%20de%20las%20cartas "Prototipos") ♦ [Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
