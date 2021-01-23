@@ -1,19 +1,19 @@
 # Puntos de habilidad
 - Aquí pueden pegar las cartas/ejemplo sobre la categoría de *Puntos de habilidad* 
 
-**1.** Utilización efectiva del tiempo.
+**1.**
 
-**2.** Organización con el equipo.
+**2.**
 
-**3.** Negociación con el cliente.
+**3.**
 
-**4.** Comunicación con el equipo.
+**4.**
 
-**5.** Gestión técnica.
+**5.**
 
-**6.** Seguimiento y control.
+**6.**
 
-**7.** Uso de nuevas herramientas.
+**7.**
 
 **8.**
 
