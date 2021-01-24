@@ -1,5 +1,6 @@
 # Habilidades en proyectos
 - Aquí pueden pegar las cartas/ejemplo sobre la categoría de *Habilidades en proyectos* 
+- Cada carta tendría un valor de 2 puntos de habilidad
 
 **1.** Utilización efectiva del tiempo.
 
@@ -17,6 +18,6 @@
 
 **8.** Resolución de problemas
 
-**9.** Contaco con otras marcas
+**9.** Contacto con otras marcas
 
 **10.** Inovación y creatividad
