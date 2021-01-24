@@ -15,8 +15,8 @@
 
 **7.** Uso de nuevas herramientas.
 
-**8.**
+**8.** Resolución de problemas
 
-**9.**
+**9.** Contaco con otras marcas
 
-**10.**
+**10.** Inovación y creatividad
