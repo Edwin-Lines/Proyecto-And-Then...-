@@ -40,4 +40,4 @@
 
 ![Caso 10](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/8.%20Cartas%20finales%20o%20producidas%20(Producto%20final)/Cartas%20%20de%20categor%C3%ADa%20%22Casos%20o%20situaciones%22%20en%20formato%20de%20imagen/Caso%2010.png)
 
-♦[Regresar a Cartas Producto](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/8.%20Cartas%20finales%20o%20producidas%20(Producto%20final) "Cartas Finales") ♦ [Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
+♦[Regresar a Cartas Producto](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/8.%20Cartas%20finales%20o%20producidas%20(Producto%20final)/8.%20Cartas%20Producto "Cartas Finales") ♦ [Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
