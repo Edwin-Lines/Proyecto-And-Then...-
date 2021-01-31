@@ -30,6 +30,8 @@ Los usuarios son estudiantes de la carrera de Ingeniería de Software, estudiant
 
 7.[Protipos de las cartas](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/7.%20Prototipos%20de%20las%20cartas "Prototipos de las cartas")
 
+8.[Cartas finales (Cartas Producto)](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/8.%20Cartas%20finales%20o%20producidas%20(Producto%20final)/8.%20Cartas%20Producto)
+
 ♦[Bitácoras](https://github.com/Edwin-Lines/Proyecto-And-Then...-/tree/main/Documentaci%C3%B3n/Bit%C3%A1coras "Bitácoras")
 
 ♦[Competencias de la asignatura](https://github.com/Edwin-Lines/Proyecto-And-Then...-/blob/main/Documentaci%C3%B3n/Competencias/Competencias%20reflejadas%20en%20el%20proyecto.md "Competencias de la asignatura")
