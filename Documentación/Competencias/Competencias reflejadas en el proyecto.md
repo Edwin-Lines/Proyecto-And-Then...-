@@ -96,6 +96,9 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 -	*Plantear el diseño o ejemplos de diseños a usar para las cartas de "Recursos Materiales"*
 -	*Plantear el diseño o ejemplos de diseños a usar para las cartas de "Casos o situaciones"*
 -	*Hacer un boceto del logo principal del proyecto*
+
+***Tercera entrega***
+- *Juntarse para hacer la demostración del juego*
 ***
 **Tipo de competencia:** Disciplinar
 
@@ -109,6 +112,9 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 -	*Crear una nueva rama de "Primera entrega" donde no haya ningún cambio desde la primera entrega*
 -	*Investigar sobre Recursos materiales*
 -	*Crear el nuevo archivo de Excel para la tabla de porcentajes*
+
+***Tercera entrega***
+- *Juntarse para hacer la demostración del juego*
 ***
 **Tipo de competencia:** Disciplinar
 
