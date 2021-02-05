@@ -1,8 +1,6 @@
 # Competencias reflejadas en el proyecto 
 
 [***Cronograma en Microsoft Planner***](https://tasks.office.com/alumnos.uady.mx/es/Home/Planner/#/plantaskboard?groupId=770ad327-1ceb-44b7-8aca-221b2e1fa85c&planId=PQPZC5TIrESN4PLdSEPhJmQAG_j8 "Microsoft Planner")
-
-## Genéricas
 ***
 **Tipo de competencia:** Genérica
 
@@ -36,29 +34,7 @@
 
 **Actividades:** *Reuniones*
 ***
-**Tipo de competencia:** Genérica
 
-**Competencia:** Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa 
-
-**Aprendizaje y justificación:** Se han encontrado maneras de cumplir los objetivos y las metas comunes, eso ha significado un aprendizaje en las maneras de trabajo de todos los integrantes del equipo.
-
-**Actividades:** 
-
-***Primera entrega***
-- *Junta para dudas sobre concepto del proyecto*
-
-***Segunda entrega***
-- *Junta para hablar de los nuevos cambios*
-
-***Tercera entrega***
-- *Junta para hablar sobre la tercera entrega y repartir la división de tareas de investigación*
-- *Juntarse para hacer la demostración del juego *
-
-***
-
-## Disciplinares
-
-***
 **Tipo de competencia:** Disciplinar
 
 **Competencia:** Analiza la evolución disciplinar de la Ingeniería de Software, así como las características del profesionista vinculado con la misma, de acuerdo con el marco teórico y los modelos curriculares de la disciplina.
@@ -101,9 +77,6 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 -	*Plantear el diseño o ejemplos de diseños a usar para las cartas de "Recursos Materiales"*
 -	*Plantear el diseño o ejemplos de diseños a usar para las cartas de "Casos o situaciones"*
 -	*Hacer un boceto del logo principal del proyecto*
-
-***Tercera entrega***
-- *Juntarse para hacer la demostración del juego*
 ***
 **Tipo de competencia:** Disciplinar
 
@@ -117,23 +90,17 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 -	*Crear una nueva rama de "Primera entrega" donde no haya ningún cambio desde la primera entrega*
 -	*Investigar sobre Recursos materiales*
 -	*Crear el nuevo archivo de Excel para la tabla de porcentajes*
-
-***Tercera entrega***
-- *Juntarse para hacer la demostración del juego*
 ***
 **Tipo de competencia:** Disciplinar
 
 **Competencia:** Identifica los principales factores humanos que inciden en el éxito o fracaso de los procesos de software, de acuerdo con el marco teórico de la disciplina.
 
-**Aprendizaje y justificación:** Con la investigación hecha pudimos darnos cuenta de la importancia del sector humano no solo en la ingeniería de software sino en todas las áreas del desarrollo humano, así como el costo de sus fallos y el valor del estado de cada integrante.
+**Aprendizaje y justificación:** 
 
-**Actividades:** 
+**Actividades:** Con la investigación hecha pudimos darnos cuenta de la importancia del sector humano no solo en la ingeniería de software sino en todas las áreas del desarrollo humano, así como el costo de sus fallos y el valor del estado de cada integrante.
 
 ***Segunda entrega***
 -	*Investigar sobre los recursos humanos*
-
-***Tercera entrega***
--	*Pasar las categoría de "Recursos Humanos" a formato de imagen*
 
 ***
 ♦[Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
