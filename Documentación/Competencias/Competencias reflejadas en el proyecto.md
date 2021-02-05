@@ -114,12 +114,15 @@ Hemos realizado actividades como la obtención de requisitos, la especificación
 
 **Competencia:** Identifica los principales factores humanos que inciden en el éxito o fracaso de los procesos de software, de acuerdo con el marco teórico de la disciplina.
 
-**Aprendizaje y justificación:** 
+**Aprendizaje y justificación:** Con la investigación hecha pudimos darnos cuenta de la importancia del sector humano no solo en la ingeniería de software sino en todas las áreas del desarrollo humano, así como el costo de sus fallos y el valor del estado de cada integrante.
 
-**Actividades:** Con la investigación hecha pudimos darnos cuenta de la importancia del sector humano no solo en la ingeniería de software sino en todas las áreas del desarrollo humano, así como el costo de sus fallos y el valor del estado de cada integrante.
+**Actividades:** 
 
 ***Segunda entrega***
 -	*Investigar sobre los recursos humanos*
+
+***Tercera entrega***
+-	*Pasar las categoría de "Recursos Humanos" a formato de imagen*
 
 ***
 ♦[Inicio](https://github.com/Edwin-Lines/Proyecto-And-Then...- "Inicio")
