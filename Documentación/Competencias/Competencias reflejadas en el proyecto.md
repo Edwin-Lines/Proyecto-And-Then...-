@@ -34,6 +34,24 @@
 
 **Actividades:** *Reuniones*
 ***
+**Tipo de competencia:** Genérica
+
+**Competencia:** Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa 
+
+**Aprendizaje y justificación:** Se han encontrado maneras de cumplir los objetivos y las metas comunes, eso ha significado un aprendizaje en las maneras de trabajo de todos los integrantes del equipo.
+
+**Actividades:** 
+***Primera entrega***
+- *Junta para dudas sobre concepto del proyecto*
+
+***Segunda entrega***
+- *Junta para hablar de los nuevos cambios*
+
+***Tercera entrega***
+- *Junta para hablar sobre la tercera entrega y repartir la división de tareas de investigación*
+- *Juntarse para hacer la demostración del juego *
+
+***
 
 **Tipo de competencia:** Disciplinar
 
