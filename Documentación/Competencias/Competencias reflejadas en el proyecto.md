@@ -56,6 +56,9 @@
 
 ***
 
+## Disciplinares
+
+***
 **Tipo de competencia:** Disciplinar
 
 **Competencia:** Analiza la evolución disciplinar de la Ingeniería de Software, así como las características del profesionista vinculado con la misma, de acuerdo con el marco teórico y los modelos curriculares de la disciplina.
